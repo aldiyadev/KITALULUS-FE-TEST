@@ -148,8 +148,6 @@ export default {
                     descriptions : this.$refs.descriptions[index].value,
                 }
 
-                console.log(form);
-
                 axios
                     .put(`https://andywiranata-42555.firebaseio.com/test-frontend/items/${index}.json`, form, {
                         headers: {
