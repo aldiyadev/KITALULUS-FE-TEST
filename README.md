@@ -13,14 +13,13 @@ disini saya akan memberikan alasan kenapa saya memilih Framework Vue js
 
 ## Untuk instalasi nya bisa ikuti cara di bawah ini :
 
-#Melakukan git clone ke folder local anda menggunakan git bash atau lainya
+1. Melakukan git clone ke folder local anda menggunakan git bash atau lainya
 
-git clone https://github.com/aldiyahya123/KITALULUS-FE-TEST.git 
+   git clone https://github.com/aldiyahya123/KITALULUS-FE-TEST.git 
+ 
+2. buka folder yg sudah di clone tadi di Text editor ( Vs Code, sublime text, lainya )
 
-  
-buka folder yg sudah di clone tadi di Text editor ( Vs Code, sublime text, lainya )
-
-#buka terminal dan lihat panduan di bawah
+3. buka terminal dan lihat panduan di bawah
 
 ## Project setup
 ```
@@ -32,7 +31,7 @@ npm install
 npm run serve
 ```
 
-# untuk bagian yg bawah ini tidak perlu dijalankan karna untuk production mode atau mendeploy ke netlify atau lainya 
+!! | untuk bagian yg bawah ini tidak perlu dijalankan karna untuk production mode atau mendeploy ke netlify atau lainya 
 
 ### Compiles and minifies for production
 ```
