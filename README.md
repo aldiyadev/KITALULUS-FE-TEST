@@ -32,6 +32,8 @@ npm install
 npm run serve
 ```
 
+# untuk bagian yg bawah ini tidak perlu dijalankan karna untuk production mode atau mendeploy ke netlify atau lainya 
+
 ### Compiles and minifies for production
 ```
 npm run build
@@ -41,6 +43,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
